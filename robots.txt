@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mdsadikhasan.19.github.io/sadcodex/sitemap.xml
